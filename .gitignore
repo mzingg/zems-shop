@@ -1,0 +1,7 @@
+/.gradle/
+/.idea/
+build
+node_modules
+/contentbus/
+/app/src/main/modules/zems/core/
+/app/src/main/components/zems/core/
